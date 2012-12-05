@@ -4,7 +4,7 @@ ose-cebpress-hopper
 Mechanical drawings for http://opensourceecology.org/wiki/CEB_Press hopper parts
 
 Quick find: looking for a drawing for Master Index item 88 (Plate, Hopper, Rear)?
-  ose-cebpress-hopper/i88-rear-plate/exports/i88-rear-hopper.pdf
+  ose-cebpress-hopper/i88-rear-plate/exports/Hopper-88.pdf
 
   
 This project directory is organized hierarchically. There is a
