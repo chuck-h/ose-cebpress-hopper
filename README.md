@@ -28,3 +28,8 @@ that is not a direct part of the toolchain.
 There are two active branches. The 'master' branch is intended for
 finished documentation. The 'edge' branch is for revisions in progress
 and should not, in general, be used for fabrication.
+
+To download files to your local computer, here are two options.
+1. for a single file, navigate to the file, open it, and click the RAW button at the upper right of the viewing pane. (Note: non-text files will download, text files display on screen. Use browser's "save page as" for text.)
+2. use the ZIP button on the main project page, which compresses the entire project directory and downloads it.
+There are many other ways to do it, too.
